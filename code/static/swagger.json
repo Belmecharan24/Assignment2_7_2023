@@ -1,0 +1,15 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+      "description": "charanpalbkuberappa24",
+      "version": "1.0.0",
+      "title": "charanpalbkuberappa24-Boilerplate",
+      "contact": {
+        "email": "charanpalbkuberappa24@gmail.com"
+      },
+      "license": {
+        "name": "MIT",
+        "url": "https://opensource.org/licenses/MIT"
+      }
+    }
+  }
